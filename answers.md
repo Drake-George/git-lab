@@ -39,6 +39,7 @@ collaborate (see also: git help workflows)
 concept guides. See 'git help <command>' or 'git help <concept>'
 to read about a specific subcommand or concept.
 See 'git help git' for an overview of the system.
+
 answer 4- On branch master
 
 No commits yet
@@ -56,6 +57,7 @@ Untracked files:
   (use "git add <file>..." to include in what will be committed)
         answer.md
         answers.md
+
 answer 5 - On branch master
 
 No commits yet
@@ -68,6 +70,7 @@ Untracked files:
   (use "git add <file>..." to include in what will be committed)
         answer.md
         answers.md
+
 answer 6 - On branch master
 
 No commits yet
@@ -80,6 +83,7 @@ Untracked files:
   (use "git add <file>..." to include in what will be committed)
         answer.md
         answers.md
+
 answer 7 - On branch master
 Untracked files:
   (use "git add <file>..." to include in what will be committed)
@@ -87,3 +91,28 @@ Untracked files:
         answers.md
 
 nothing added to commit but untracked files present (use "git add" to track)
+
+answer 8 - commit b41d4145aee1c3bcf5e5ef3d2235734b232da822 (HEAD -> main, origin/main)
+Author: drake <dg872123>
+Date:   Tue May 28 15:37:43 2024 -0400
+
+answer 9 - On branch main
+Your branch is up to date with 'origin/main'.
+
+nothing to commit, working tree clean
+
+answer 10 - bjhbuh
+Name: Jonathan Drake George
+Username: Drake-George
+e-mail: dg872123@ohio.edu
+class info: CS2400, sect. 100
+
+answer 11 - Everything up-to-date
+
+answer 12 - bjhbuh
+Name: Jonathan Drake George
+Username: Drake-George
+e-mail: dg872123@ohio.edu
+class info: CS2400, sect. 100
+
+answer 13 - .git  .gitignore  README.md
